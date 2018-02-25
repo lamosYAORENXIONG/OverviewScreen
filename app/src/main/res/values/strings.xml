@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OverviewScreen</string>
+    <string name="intent_start">IntentStart</string>
+    <string name="start_self">StartSelf</string>
+    <string name="remove_Task">RemoveTask</string>
+    <string name="intoexisting">IntoExisting</string>
+    <string name="always">Always</string>
+</resources>
